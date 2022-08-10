@@ -91,7 +91,7 @@ h3{
     font-size: 20px;
     margin-bottom: 3%;
     line-height: 165%;
-    word-spacing: 3%;
+    word-spacing: 0.3em;
 }  
 .footer{
     background-color: rgb(69, 179, 150);
